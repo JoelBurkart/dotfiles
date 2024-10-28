@@ -1,0 +1,5 @@
+[keyboard]
+[[keyboard.bindings]]
+chars = "\u001B[1;3P"
+key = "Enter"
+mods = "Super"

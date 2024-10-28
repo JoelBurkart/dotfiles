@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<keyboard version="1">
+    <commands>
+        <key command="CanvasSize" shortcut="C" removed="true" />
+        <key command="CanvasSize" shortcut="Q" />
+        <key command="SetInkType" shortcut="C">
+            <param name="type" value="simple" />
+        </key>
+        <key command="SetInkType" shortcut="V">
+            <param name="type" value="shading" />
+        </key>
+    </commands>
+    <tools>
+        <key tool="lasso" shortcut="Q" removed="true" />
+        <key tool="move" shortcut="V" removed="true" />
+    </tools>
+    <quicktools />
+    <actions />
+    <wheel />
+    <drag />
+</keyboard>
